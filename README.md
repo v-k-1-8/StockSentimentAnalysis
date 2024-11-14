@@ -5,5 +5,5 @@ Testdata through webscrapping from various resources.<br>
 Sentiments from finviz webscrapping through bs4 <br>
 Data from yfinance python lib <br>
 Used nave bayes algo based on bayes probability theorem <br>
-Used neural network to gemerate value from sentiments <br>
+Used neural network to generate value from sentiments <br>
 Computed compound value then 0.5> buy, <0 sell, else hold. <br>
